@@ -37,3 +37,7 @@ You can add an image or a code block, too.
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
+
+
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
