@@ -41,3 +41,11 @@ You can add an image or a code block, too.
 
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+
