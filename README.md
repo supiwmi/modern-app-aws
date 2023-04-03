@@ -60,4 +60,4 @@ git commit
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 
-Visit [GitHub Doc](https://docs.github.com/en) for more details
+[GitHub Doc](https://docs.github.com/en) for more details
