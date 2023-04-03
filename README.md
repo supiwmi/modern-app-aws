@@ -26,3 +26,10 @@ You can add an image or a code block, too.
 ```
 
 </details>
+
+```
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+```
